@@ -1,4 +1,4 @@
-<h1 align="center"> Card User Mode Dark e Light </h1>
+<h1 align="center"> Cartão de Usuário - Modo escuro e claro </h1>
     <p  align="center">
         <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
         <a href="#-projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
