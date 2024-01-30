@@ -17,7 +17,7 @@ Esse repositório contém essas tais tecnologias :
 
 ## 💻 Projeto
 
-Neste projeto fiz um card para colocar em prática a função dark mode
+Neste projeto fiz um card para colocar em prática meus conhecimentos aprendido em JavaScript
 
 ## 🖼️ Layout
 
