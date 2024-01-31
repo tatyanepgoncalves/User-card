@@ -21,7 +21,7 @@ Neste projeto fiz um card para colocar em prática meus conhecimentos aprendido 
 
 ## 🌐 Links
 
-URL do site: [link do site ativo] (https://tatyanepgoncalves.github.io/User-card/)
+URL do site: [link do site ativo](https://tatyanepgoncalves.github.io/User-card/)
 
 ## 🖼️ Layout
 
