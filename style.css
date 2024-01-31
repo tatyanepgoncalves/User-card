@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+:root{
+    --purple01: hsl(274, 100%, 75%); 
+    --purple02: hsl(265, 57%, 80%);
+    --purple03: hsl(270, 73%, 35%);
+    --purple04: hsl(271, 85%, 23%);
+    --gray: hsl(208, 7%, 46%);
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, var(--purple01), var(--purple02));
+    transition: 0.3s;
+}
+
+
+.mode{
+    width: 130px;
+    height: 50px;
+    border-radius: 100px;
+    background: linear-gradient(45deg, var(--purple01), var(--purple02));
+    position: relative;
+    cursor: pointer;
+}
+
+.mode .id{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #000;
+    transform: scale(.9);
+    position: absolute;
+    left: 0;
+    transition: .6s;
+}
+
+
+body.dark{
+    background: linear-gradient(90deg, var(--purple03), var(--purple04));
+}
+
+body.dark h1{
+    color: var(--purple01);
+}
+
+body.dark .social-media a i{
+    color: var(--purple01);
+}
+
+.mode.dark{
+    background: linear-gradient(45deg, var(--purple03), var(--purple04));
+}
+
+.mode.dark .id{
+    background-color: #fff;
+    left: 77px;
+}
+
+#card{
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.336);
+}
+
+.img{
+    margin: 1rem 0;
+}
+
+.img img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.social-media a i, 
+h1{
+    color: var(--purple03);
+}
+
+.social-media{
+    margin-top: 1rem;
+}
+
+.social-media a i{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: hsl(265, 57%, 80%, 0.3);
+    margin: 0 5px;
+    color: var(--purple03);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 0.3s ease-in;
+}
+
+.social-media a i:hover{
+    color: #fff; 
+    background-color: var(--purple03);
+}
+
+body.dark .social-media a i{
+    background-color: var(--purple03);
+    color: #fff;
+    transition: 0.3s;
+}
+
+body.dark .social-media a i:hover{
+    color: hsl(270, 73%, 35%);
+    background-color: hsl(265, 57%, 80%, 0.3);
+}
