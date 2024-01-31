@@ -21,8 +21,8 @@ Neste projeto fiz um card para colocar em prática meus conhecimentos aprendido 
 
 ## 🖼️ Layout
 
-![image]("img/modo-light.png")
-![image]("img/modo-dark.png")
+<img src="img/modo-light.png" alt="">
+<img src="img/modo-dark.png" alt="">
 
 
 
