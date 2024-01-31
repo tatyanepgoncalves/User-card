@@ -19,6 +19,10 @@ Esse repositório contém essas tais tecnologias :
 
 Neste projeto fiz um card para colocar em prática meus conhecimentos aprendido em JavaScript
 
+## 🌐 Links
+
+URL do site: [link do site ativo] (https://tatyanepgoncalves.github.io/User-card/)
+
 ## 🖼️ Layout
 
 <img src="img/modo-light.png" alt="">
