@@ -27,8 +27,8 @@ Neste projeto fiz um card para colocar em prática a função dark mode
 
 ## 🖼️ Layout
 
-![image](https://tatyanepgoncalves.github.io/User-card/)
-![image](https://tatyanepgoncalves.github.io/User-card/)
+![image]("img/modo-light.png")
+![image]("img/modo-dark.png")
 
 
 
