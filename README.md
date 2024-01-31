@@ -21,8 +21,8 @@ Neste projeto fiz um card para colocar em prática meus conhecimentos aprendido 
 
 ## 🖼️ Layout
 
-![image](https://tatyanepgoncalves.github.io/User-card/)
-![image](link do modo dark)
+![image]("img/modo-light.png")
+![image]("img/modo-dark.png")
 
 
 
